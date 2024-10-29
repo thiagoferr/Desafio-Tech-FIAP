@@ -1,0 +1,1 @@
+O desafio consiste em extrair, limpar e analisar dados sobre a atividade da vinicultura no Brasil nos últimos 15 anos. Deve-se separar a análise por país e desenvolver prospecções futuras que direcione ações visando o aumento das exportações. Para este desafio utilizaremos as bibliotecas do pandas, matplotlib e numpy, detalhando o que está sendo feito ao longo do processo.
